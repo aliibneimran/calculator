@@ -96,7 +96,12 @@
 .calculator-buttons button:nth-last-child(1),
 .calculator-buttons button:nth-last-child(2) {
   background: linear-gradient(135deg, #81c784, #4CAF50);
-  /* color: white; */
+  color: white;
+  font-weight: bold;
+}
+.calculator-buttons button:nth-last-child(2) {
+  background: linear-gradient(135deg, #81c784, #4CAF50);
+  color: white;
   font-weight: bold;
 }
 .calculator-buttons button:nth-child(4n):hover,

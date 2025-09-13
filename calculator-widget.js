@@ -2,7 +2,7 @@
   // Load CSS dynamically
   const cssLink = document.createElement("link");
   cssLink.rel = "stylesheet";
-  cssLink.href = "https://cdn.jsdelivr.net/gh/aliibneimran/calculator/calculator-widget.css";
+  cssLink.href = "https://cdn.jsdelivr.net/gh/aliibneimran/calculator@latest/calculator-widget.css";
   // cssLink.href = "calculator-widget.css";
   document.head.appendChild(cssLink);
 
