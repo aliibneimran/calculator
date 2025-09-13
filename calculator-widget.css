@@ -65,6 +65,7 @@
   background: #ebe8e8;
   box-shadow: inset 2px 2px 6px rgba(0,0,0,0.1);
   outline: none;
+  color: #226841;
 }
 
 .calculator-buttons {
@@ -84,6 +85,7 @@
   box-shadow: 3px 3px 6px rgba(0,0,0,0.15), -2px -2px 5px rgba(255,255,255,0.8);
   cursor: pointer;
   transition: all 0.2s ease-in-out;
+  color: #226841;
 }
 
 .calculator-buttons button:hover {
